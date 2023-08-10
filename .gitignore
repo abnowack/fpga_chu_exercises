@@ -1,0 +1,5 @@
+!vivado_projects
+!vivado_projects/*
+vivado_projects/*/*
+!vivado_projects/*.xdc
+!vivado_projects/**/*.xpr
